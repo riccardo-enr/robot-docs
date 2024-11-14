@@ -1,0 +1,15 @@
+title: Robot Documentation
+description: Robot documentation
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: yellow
+url: https://riccardo-enr.github.io/robot-docs/
+aux_links:
+  "GitHub Repository":
+    - https://github.com/riccardo-enr/robot-docs
