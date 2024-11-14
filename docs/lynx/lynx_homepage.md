@@ -6,9 +6,8 @@ nav_order: 1
 
 # Lynx
 
-- Firmware
-  - Flashing the firmware
-- Hardware
+- [Firmware](lynx_firmware.md)
+- [Hardware](lynx_hardware.md)
 - Running the ROS 1 Nodes
   - With the computer connected
   - With the motors connected
